@@ -16,7 +16,7 @@ Hi, I'm **Komal Bhangale**, a passionate technical trainer with over four years 
 - Trained over 3,000 students in **C**, **Data Structures**, **Core Java**, **Design and Analysis of Algorithms**, and **MEAN stack**.
 - Collaborated with content teams to create and update educational materials, ensuring high-quality and up-to-date learning resources.
 - Participated in the hiring process for freelancers and full-time employees, contributing to team expansion.
-- Delivered training at top institutes like QIS College, Parul University, and JSCOE.
+- Delivered training at top institutes like QIS College, Parul University,Dypatil akurdi and JSCOE.
 - Conducted problem-solving sessions using **Python** and **Java** for engineering and MCA students across multiple colleges.
 
 #### **Associate Junior Technical Trainer | Talentio Solutions India Pvt. Ltd.**  
@@ -33,9 +33,8 @@ Hi, I'm **Komal Bhangale**, a passionate technical trainer with over four years 
 - **Languages**: C, Java, Python, SQL
 - **Frontend Development**: HTML, CSS, JavaScript
 - **Backend**: Node.js, MySQL, PL/SQL
-- **Data Visualization**: Tableau
 - **Web Development**: MEAN stack (MongoDB, Express.js, Angular, Node.js)
-- **Tools**: Git, Figma, VS Code, PowerPoint
+- **Tools**: Git, VS Code, PowerPoint
 
 ### 🎓 **Current Learning Goals**
 - Mastering **Tableau** for advanced data visualization.
