@@ -1,12 +1,11 @@
 I'm Komal Bhangale.  
-👩‍💻 **About Me**  
+**About Me**  
 🔭 I specialize in Design and Analysis of Algorithms , with hands-on experience in training students on the latest technologies in Computer fields.  
 
 🌱 I'm passionate about educating and mentoring students, having trained over 3,000 individuals to date in programming languages and development technologies.  
 
 💡 My unique combination of technical expertise and teaching skills helps me inspire students to grow and succeed in their careers. I love empowering learners by helping them master **C**, **Java**, **Python**, **Data Structures**, and **MEAN Stack**.  
 
-📫 Feel free to reach out to me.
 
 🛠 **Languages and Tools**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) 
