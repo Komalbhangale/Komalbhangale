@@ -12,9 +12,5 @@ I'm Komal Bhangale.
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square) 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square) 
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) 
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)  
+![Data Structure](https://img.shields.io/badge/-DataStructure-4479A1?logo=DS&logoColor=white&style=flat-square)
+  
